@@ -1,0 +1,3 @@
+Hello World this is my new line insert
+Writing files using python
+this is my line that is being appendedthis is my line that is being appended

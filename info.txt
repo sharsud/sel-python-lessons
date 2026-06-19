@@ -1,0 +1,17 @@
+datatypes
+
+integer
+float
+string
+boolean
+
+Arithmetic operations:
+Ooutput/printing stmts.
+
+
+complex data types/ container
+list, tuples -sequential
+dictionary - Mapping
+set - set
+
+
